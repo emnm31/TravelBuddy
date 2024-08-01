@@ -7,24 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD2B84852C5A87D00005846C /* AirlinesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2B84842C5A87D00005846C /* AirlinesPage.swift */; };
+		BD4285D52C5BE1290067B102 /* FrancePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285D42C5BE1290067B102 /* FrancePage.swift */; };
+		BD4285D72C5BE1440067B102 /* SpainPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285D62C5BE1440067B102 /* SpainPage.swift */; };
+		BD4285D92C5BE1A40067B102 /* ChinaPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285D82C5BE1A40067B102 /* ChinaPage.swift */; };
+		BD4285DB2C5BE1B30067B102 /* TurkeyPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285DA2C5BE1B30067B102 /* TurkeyPage.swift */; };
+		BD4285DD2C5BE1C00067B102 /* MexicoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285DC2C5BE1C00067B102 /* MexicoPage.swift */; };
+		BD4285DF2C5BE2B10067B102 /* ScrapbookTab2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285DE2C5BE2B10067B102 /* ScrapbookTab2.swift */; };
+		BD4285E12C5BE2C00067B102 /* ScrapbookTab3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285E02C5BE2C00067B102 /* ScrapbookTab3.swift */; };
+		BD4285E32C5BE2CC0067B102 /* ScrapbookTab4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4285E22C5BE2CC0067B102 /* ScrapbookTab4.swift */; };
 		BD9D39A12C5955B00054FE61 /* TravelBuddyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D39A02C5955B00054FE61 /* TravelBuddyApp.swift */; };
 		BD9D39A32C5955B00054FE61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D39A22C5955B00054FE61 /* ContentView.swift */; };
 		BD9D39A52C5955B20054FE61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD9D39A42C5955B20054FE61 /* Assets.xcassets */; };
 		BD9D39A82C5955B20054FE61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD9D39A72C5955B20054FE61 /* Preview Assets.xcassets */; };
 		BD9D39AF2C5956160054FE61 /* CostCalculatorPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D39AE2C5956160054FE61 /* CostCalculatorPage.swift */; };
-		BD9D39B12C59563D0054FE61 /* PersonalityTestPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D39B02C59563D0054FE61 /* PersonalityTestPage.swift */; };
 		BD9D39B32C59568E0054FE61 /* CountriesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D39B22C59568E0054FE61 /* CountriesPage.swift */; };
 		BD9D39B52C5956BC0054FE61 /* ScrapbookPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9D39B42C5956BC0054FE61 /* ScrapbookPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD2B84842C5A87D00005846C /* AirlinesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirlinesPage.swift; sourceTree = "<group>"; };
+		BD4285D42C5BE1290067B102 /* FrancePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrancePage.swift; sourceTree = "<group>"; };
+		BD4285D62C5BE1440067B102 /* SpainPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpainPage.swift; sourceTree = "<group>"; };
+		BD4285D82C5BE1A40067B102 /* ChinaPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChinaPage.swift; sourceTree = "<group>"; };
+		BD4285DA2C5BE1B30067B102 /* TurkeyPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurkeyPage.swift; sourceTree = "<group>"; };
+		BD4285DC2C5BE1C00067B102 /* MexicoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MexicoPage.swift; sourceTree = "<group>"; };
+		BD4285DE2C5BE2B10067B102 /* ScrapbookTab2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrapbookTab2.swift; sourceTree = "<group>"; };
+		BD4285E02C5BE2C00067B102 /* ScrapbookTab3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrapbookTab3.swift; sourceTree = "<group>"; };
+		BD4285E22C5BE2CC0067B102 /* ScrapbookTab4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrapbookTab4.swift; sourceTree = "<group>"; };
 		BD9D399D2C5955B00054FE61 /* TravelBuddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBuddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD9D39A02C5955B00054FE61 /* TravelBuddyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBuddyApp.swift; sourceTree = "<group>"; };
 		BD9D39A22C5955B00054FE61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD9D39A42C5955B20054FE61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD9D39A72C5955B20054FE61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BD9D39AE2C5956160054FE61 /* CostCalculatorPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CostCalculatorPage.swift; sourceTree = "<group>"; };
-		BD9D39B02C59563D0054FE61 /* PersonalityTestPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalityTestPage.swift; sourceTree = "<group>"; };
 		BD9D39B22C59568E0054FE61 /* CountriesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesPage.swift; sourceTree = "<group>"; };
 		BD9D39B42C5956BC0054FE61 /* ScrapbookPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrapbookPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -62,9 +78,17 @@
 				BD9D39A02C5955B00054FE61 /* TravelBuddyApp.swift */,
 				BD9D39A22C5955B00054FE61 /* ContentView.swift */,
 				BD9D39AE2C5956160054FE61 /* CostCalculatorPage.swift */,
-				BD9D39B02C59563D0054FE61 /* PersonalityTestPage.swift */,
+				BD2B84842C5A87D00005846C /* AirlinesPage.swift */,
 				BD9D39B22C59568E0054FE61 /* CountriesPage.swift */,
+				BD4285D42C5BE1290067B102 /* FrancePage.swift */,
+				BD4285D62C5BE1440067B102 /* SpainPage.swift */,
+				BD4285D82C5BE1A40067B102 /* ChinaPage.swift */,
+				BD4285DA2C5BE1B30067B102 /* TurkeyPage.swift */,
+				BD4285DC2C5BE1C00067B102 /* MexicoPage.swift */,
 				BD9D39B42C5956BC0054FE61 /* ScrapbookPage.swift */,
+				BD4285DE2C5BE2B10067B102 /* ScrapbookTab2.swift */,
+				BD4285E02C5BE2C00067B102 /* ScrapbookTab3.swift */,
+				BD4285E22C5BE2CC0067B102 /* ScrapbookTab4.swift */,
 				BD9D39A42C5955B20054FE61 /* Assets.xcassets */,
 				BD9D39A62C5955B20054FE61 /* Preview Content */,
 			);
@@ -151,9 +175,17 @@
 			files = (
 				BD9D39AF2C5956160054FE61 /* CostCalculatorPage.swift in Sources */,
 				BD9D39A32C5955B00054FE61 /* ContentView.swift in Sources */,
-				BD9D39B12C59563D0054FE61 /* PersonalityTestPage.swift in Sources */,
+				BD4285E12C5BE2C00067B102 /* ScrapbookTab3.swift in Sources */,
+				BD4285DB2C5BE1B30067B102 /* TurkeyPage.swift in Sources */,
+				BD4285D72C5BE1440067B102 /* SpainPage.swift in Sources */,
+				BD4285DD2C5BE1C00067B102 /* MexicoPage.swift in Sources */,
 				BD9D39B32C59568E0054FE61 /* CountriesPage.swift in Sources */,
+				BD2B84852C5A87D00005846C /* AirlinesPage.swift in Sources */,
+				BD4285DF2C5BE2B10067B102 /* ScrapbookTab2.swift in Sources */,
+				BD4285E32C5BE2CC0067B102 /* ScrapbookTab4.swift in Sources */,
+				BD4285D52C5BE1290067B102 /* FrancePage.swift in Sources */,
 				BD9D39A12C5955B00054FE61 /* TravelBuddyApp.swift in Sources */,
+				BD4285D92C5BE1A40067B102 /* ChinaPage.swift in Sources */,
 				BD9D39B52C5956BC0054FE61 /* ScrapbookPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
